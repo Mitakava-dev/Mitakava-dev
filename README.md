@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=700&size=26&pause=1000&color=E6D3FF&width=830&lines=Mitakava+aka+Mitakava-dev%2C+Mitakawa%2C+nomitakava%2C+no_mitakava" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=700&size=28&pause=1000&color=E6D3FF&width=830&lines=Mitakava+aka+Mitakava-dev%2C+Mitakawa%2C+nomitakava%2C+no_mitakava" alt="Typing SVG" /></a>
 
 ###
 
