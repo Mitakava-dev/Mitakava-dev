@@ -6,15 +6,15 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="9" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
@@ -31,21 +31,21 @@
 <div align="left">
   <h3>Инструменты которыми я пользуюсь // Tools that i use</h3>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://github.com/Mitakava-dev/Mitakava-dev/blob/main/logos/nmaplogo.png?raw=true" height="40" width="40" alt="nmap logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://github.com/Mitakava-dev/Mitakava-dev/blob/main/logos/wshklogo.png?raw=true" height="40" width="40" alt="wireshark logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://github.com/Mitakava-dev/Mitakava-dev/blob/main/logos/xraylogo.png?raw=true" height="40" width="40" alt="xray logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="10" />
+  <img width="8" />
 </div>
 
 ### 
@@ -53,19 +53,19 @@
 <div align="left">
   <h3>Программы которые я использую // Programs i use</h3>
   <img src="https://github.com/Mitakava-dev/Mitakava-dev/blob/main/logos/cursorlogo.png?raw=true" height="40" width="40" alt="cursor logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
-  <img width="10" />
+  <img width="8" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mitakava-dev&theme=midnight_purple" align="right" valign="middle">
 </div>
