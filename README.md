@@ -7,8 +7,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
