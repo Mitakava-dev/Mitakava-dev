@@ -18,9 +18,9 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="10" />
+  <img width="9" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mitakava-dev&theme=midnight_purple" align="right" valign="middle">
