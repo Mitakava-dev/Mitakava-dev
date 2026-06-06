@@ -14,11 +14,11 @@
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
   <img width="9" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
