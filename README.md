@@ -75,7 +75,7 @@
 <div align="left">
   <h3>ОС которыми я пользуюсь // OS that i use</h3>
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
-  <img width="10" />
+  <img width="8" />
 </div>
